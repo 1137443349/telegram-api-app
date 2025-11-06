@@ -1,13 +1,24 @@
-# telegram-api-app
-asdadsa631x654654
-Repository name: telegram-api-app (或其他名称)
-Description: A personal Telegram desktop application for API learning and development
+# Telegram Desktop Client
 
-Visibility:
-● Public (推荐，Telegram 可以查看)
-○ Private
+## Project Purpose
+This is a personal desktop application for learning Telegram API integration.
 
-初始化选项：
-☑️ Add a README file
-☑️ Add .gitignore → 选择 Python
-☑️ Choose a license → 选择 MIT License
+## Features
+- Message management
+- Contact synchronization  
+- File sharing capabilities
+- Personal automation scripts
+
+## Technology Stack
+- Python 3.x
+- Telethon library
+- Asynchronous programming
+
+## Usage
+For personal educational purposes only.
+"""
+Telegram Desktop Client - Personal Project
+For learning Telegram API integration
+"""
+
+print("Telegram Desktop Client Project")
